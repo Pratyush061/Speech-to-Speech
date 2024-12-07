@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+pyttsx3
+google-generative-ai
+gtts
+streamlit-lottie
+requests
