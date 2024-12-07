@@ -1,7 +1,10 @@
-streamlit
 speechrecognition
 pyttsx3
-google-generative-ai
 gtts
+streamlit~=1.36.0
+requests~=2.32.3
 streamlit-lottie
-requests
+google-generativeai
+plotly~=5.22.0
+matplotlib~=3.9.0
+pydeck~=0.9.1
